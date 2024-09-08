@@ -1,3 +1,2 @@
 # Google-images-scrapper
-## google image scrapper using selenium, request and pil module
-## you guys easily scrape google images till the end page
+I developed a Python script using Selenium to efficiently scrape images from Google’s image search, automating the extraction process with precision and reliability.
